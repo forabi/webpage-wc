@@ -3,7 +3,6 @@ webpage-wc
 Prints number of words in one or more webpages using the [Readablity API](https://www.readability.com/developers/)
 
 ## Installation
-**Note: `webpage-wc` requires Node.js >= 5.0**
 
 ```shell
 npm install -g webpage-wc
