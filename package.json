@@ -25,12 +25,12 @@
     "got": "^6.1.1",
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1",
-    "pluralize": "^1.2.1"
+    "pluralize": "^1.2.1",
+    "easy-table": "^1.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.5.1",
     "babel-preset-es2015": "^6.5.0",
-    "easy-table": "^1.0.0",
     "eslint": "^2.2.0",
     "eslint-config-airbnb": "^6.0.2",
     "mocha": "^2.4.5"
