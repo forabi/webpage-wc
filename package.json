@@ -1,6 +1,6 @@
 {
   "name": "webpage-wc",
-  "version": "0.0.0-development",
+  "version": "0.0.0",
   "description": "Prints number of words in one or more webpages using the Readablity API",
   "main": "index.js",
   "bin": {
