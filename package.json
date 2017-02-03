@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint src",
-    "prepublish": "npm run lint && npm run build",
+    "prepublish": "npm run lint",
     "postinstall": "echo 'The Readability API is no longer available, this tool now uses Mercury Web Parser API. Please remove the previous configuration file manually.'",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
